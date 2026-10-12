@@ -1,0 +1,6 @@
+{
+  "name": "Campus Pulse AI",
+  "description": "Predict. Explain. Simulate. Improve. Student Success Intelligence Platform for campus analytics, predictive risk scoring, what-if intervention simulation, and resource optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
